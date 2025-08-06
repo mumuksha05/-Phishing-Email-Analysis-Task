@@ -1,0 +1,16 @@
+From: PayPal Security <support@paypal-alert.com>
+Subject: Immediate Action Required - Account Suspended
+
+Dear Customer,
+
+We have noticed unusual activity in your PayPal account. For your security, your account has been temporarily suspended.
+
+Please click the link below to verify your information:
+[Verify Now](http://paypal-login-alert.ru/verify)
+
+Failure to confirm your details within 24 hours will result in permanent suspension of your account.
+
+Sincerely,  
+PayPal Account Security Team
+
+Note: This is a system generated email. Do not reply.

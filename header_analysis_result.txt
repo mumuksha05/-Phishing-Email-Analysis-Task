@@ -1,0 +1,10 @@
+Received: from unknownserver.com (203.0.113.10)
+Authentication-Results: spf=fail; dkim=fail
+Return-Path: <support@paypal-alert.com>
+From: "PayPal Security" <support@paypal-alert.com>
+To: victim@example.com
+Subject: Immediate Action Required - Account Suspended
+Date: Wed, 6 Aug 2025 11:21:34 +0000
+
+Warning: SPF check failed. Email might be spoofed.
+IP address does not match known PayPal mail servers.
