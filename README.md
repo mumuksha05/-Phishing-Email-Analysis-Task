@@ -1,18 +1,18 @@
-# 🎯 Phishing Email Analysis Task
+# Phishing Email Analysis Task
 
-## 📌 Objective
+## Objective
 To analyze a phishing email sample and identify common phishing characteristics using manual inspection and header analyzer tools.
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 - Email Header Analyzer: [MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx)
 - Text Editor (Notepad++)
 - Phishing Email Sample
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 | File Name                     | Description |
 |------------------------------|-------------|
@@ -22,7 +22,7 @@ To analyze a phishing email sample and identify common phishing characteristics 
 
 ---
 
-## ✅ Analysis Steps
+##  Analysis Steps
 
 1. Checked sender’s email address for spoofing
 2. Analyzed headers with online tool
@@ -33,12 +33,12 @@ To analyze a phishing email sample and identify common phishing characteristics 
 
 ---
 
-## 🛡️ Conclusion
+##  Conclusion
 
 The email is a **phishing attempt**, containing spoofed sender details, grammar mistakes, fake login links, and urgent threats to scare the recipient into clicking malicious URLs.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Mumuksha Kashyap** – Cybersecurity & Computer Applications Student
