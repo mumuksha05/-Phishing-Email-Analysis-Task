@@ -1,37 +1,37 @@
-# 🛡️ Phishing Email Analysis Report
+#  Phishing Email Analysis Report
 
 ---
 
 ## 📌 Email Subject:
 Immediate Action Required - Account Suspended
 
-## 1. 🧑‍💻 Spoofed Sender Address:
+## 1. Spoofed Sender Address:
 - Displayed as: `support@paypal-alert.com`
 - Real PayPal emails come from `@paypal.com`
 
-## 2. 🧾 Header Discrepancy:
+## 2. Header Discrepancy:
 - IP address: `203.0.113.10` — unrelated to PayPal
 - SPF and DKIM: Failed authentication checks
 
-## 3. 🔗 Suspicious Links:
+## 3. Suspicious Links:
 - Link Text: `Verify Now`
 - Actual URL: `http://paypal-login-alert.ru/verify`
 
-## 4. 🚨 Threatening Language:
+## 4. Threatening Language:
 - “Your account has been temporarily suspended”
 - “Failure to confirm will result in permanent suspension”
 
-## 5. 🔍 Mismatched URLs:
+## 5. Mismatched URLs:
 - Displayed: Looks like PayPal
 - Actual: Malicious Russian domain
 
-## 6. 📉 Spelling/Grammar Errors:
+## 6. Spelling/Grammar Errors:
 - “We have noticed unusual activity” — vague
 - "permanent suspension of your account" — robotic tone
 
 ---
 
-## ✅ Conclusion:
+## Conclusion:
 
 The email shows multiple red flags:
 - Spoofed sender address
